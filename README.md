@@ -25,6 +25,7 @@
 
 ### 🚀 What I'm up to
 
+- 🛍️ Latest project: **[Dewlune](https://github.com/muneebuddinzamir-bit/dewlune)**, a headless WooCommerce store with Next.js and liquid-glass UI
 - 💼 Junior Front-End Developer at **Fusion Tech Dynamics**, building a Next.js dashboard from Figma designs
 - 🛠️ Freelance front-end work: company websites, online stores and landing pages
 - 🌱 Growing my back-end skills with **Node.js / Express**, **MongoDB** and **Supabase**
@@ -47,6 +48,7 @@
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 **Back-end & tools**
@@ -54,12 +56,31 @@
 ![Supabase](https://img.shields.io/badge/Supabase-1C1C1C?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
 
 ### ✨ Featured projects
+
+<a href="https://github.com/muneebuddinzamir-bit/dewlune"><img src="assets/dewlune.jpg" alt="Dewlune skincare store home page with liquid glass hero" width="100%"></a>
+
+#### 🌙 Dewlune: headless WooCommerce store
+
+A skincare storefront where the shopping experience is **Next.js** and the products, cart and checkout come from **WordPress + WooCommerce** through the Store API. The home page hero uses **Plasma UI** liquid-glass panels rendered in WebGL, loaded only on desktop.
+
+- Real cart and cash-on-delivery checkout that creates orders in WooCommerce admin
+- Server routes keep the cart token in an httpOnly cookie, so the browser never talks to WordPress
+- Docker setup with a WP-CLI seeder and a custom must-use plugin for Pakistani address rules
+- Demo mode that runs without a backend
+
+<code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>WooCommerce</code> <code>WordPress</code> <code>PHP</code> <code>Docker</code> <code>Plasma UI</code>
+
+**[View code ↗](https://github.com/muneebuddinzamir-bit/dewlune)**
+
+<br>
 
 <table>
   <tr>
