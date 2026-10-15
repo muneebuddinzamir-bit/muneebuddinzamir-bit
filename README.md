@@ -26,7 +26,7 @@
 
 ### 🚀 What I'm up to
 
-- 🛍️ Latest project: **[Dewlune](https://github.com/muneebuddinzamir-bit/dewlune)**, a headless WooCommerce store with Next.js and liquid-glass UI
+- 🛍️ Latest project: **[Dewlune](https://dewlune.vercel.app)**, a headless WooCommerce store with Next.js and liquid-glass UI
 - 💼 Junior Front-End Developer at **Fusion Tech Dynamics**, building a Next.js dashboard from Figma designs
 - 🛠️ Freelance front-end work: company websites, online stores and landing pages
 - 🌱 Growing my back-end skills with **Node.js / Express**, **MongoDB** and **Supabase**
@@ -66,7 +66,7 @@
 
 ### ✨ Featured projects
 
-<a href="https://github.com/muneebuddinzamir-bit/dewlune"><img src="assets/dewlune.jpg" alt="Dewlune skincare store home page with liquid glass hero" width="100%"></a>
+<a href="https://dewlune.vercel.app"><img src="assets/dewlune.jpg" alt="Dewlune skincare store home page with liquid glass hero" width="100%"></a>
 
 #### 🌙 Dewlune: headless WooCommerce store
 
@@ -79,7 +79,7 @@ A skincare storefront where the shopping experience is **Next.js** and the produ
 
 <code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>WooCommerce</code> <code>WordPress</code> <code>PHP</code> <code>Docker</code> <code>Plasma UI</code>
 
-**[View code ↗](https://github.com/muneebuddinzamir-bit/dewlune)**
+**[Live demo ↗](https://dewlune.vercel.app)** · **[View code ↗](https://github.com/muneebuddinzamir-bit/dewlune)**
 
 <br>
 
