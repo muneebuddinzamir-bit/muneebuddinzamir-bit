@@ -16,8 +16,9 @@
 </p>
 
 <p align="center">
+  <a href="https://muneebuddinzamir-bit.github.io"><img src="https://img.shields.io/badge/Portfolio-C2410C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/muneeb-ud-din-0258a235"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:muneebuddin.zamir@gmail.com"><img src="https://img.shields.io/badge/Email-C2410C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:muneebuddin.zamir@gmail.com"><img src="https://img.shields.io/badge/Email-14161A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://fusiontechdynamics.com"><img src="https://img.shields.io/badge/Latest_work-14161A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Latest work"></a>
 </p>
 
@@ -112,6 +113,7 @@ A skincare storefront where the shopping experience is **Next.js** and the produ
 
 I'm open to **front-end and WordPress roles** and **freelance projects**.
 
+- 🌐 Portfolio: [muneebuddinzamir-bit.github.io](https://muneebuddinzamir-bit.github.io)
 - 📧 Email: [muneebuddin.zamir@gmail.com](mailto:muneebuddin.zamir@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/muneeb-ud-din-0258a235](https://linkedin.com/in/muneeb-ud-din-0258a235)
 
